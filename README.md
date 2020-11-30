@@ -1,1 +1,1 @@
-# DataStructures
+# BinarySearchTrees
